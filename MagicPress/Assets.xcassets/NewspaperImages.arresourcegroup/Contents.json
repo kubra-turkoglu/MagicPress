@@ -1,0 +1,20 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "resources" : [
+    {
+      "filename" : "dumbledore.arreferenceimage"
+    },
+    {
+      "filename" : "flyingCar.arreferenceimage"
+    },
+    {
+      "filename" : "harryPotter.arreferenceimage"
+    },
+    {
+      "filename" : "siriusBlack.arreferenceimage"
+    }
+  ]
+}
